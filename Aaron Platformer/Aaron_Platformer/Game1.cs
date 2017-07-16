@@ -12,7 +12,7 @@ using Microsoft.Xna.Framework.Media;
 namespace Aaron_Platformer
 {
     /// <summary>
-    /// This is the main type for your game
+    /// I made some changes
     /// </summary>
     public class Game1 : Microsoft.Xna.Framework.Game
     {
