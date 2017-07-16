@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>40886.png</Source>
+      <Name>dude</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\dude.xnb</Output>
+      <Time>2017-06-11T14:18:03.8169829-07:00</Time>
+    </Item>
+    <Item>
+      <Source>block.png</Source>
+      <Name>block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\block.xnb</Output>
+      <Time>2017-04-02T13:42:18-07:00</Time>
+    </Item>
+    <Item>
+      <Source>wall.png</Source>
+      <Name>wall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\wall.xnb</Output>
+      <Time>2017-07-09T13:41:02.5173015-07:00</Time>
+    </Item>
+    <Item>
+      <Source>cloud.png</Source>
+      <Name>cloud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\cloud.xnb</Output>
+      <Time>2017-04-09T14:23:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>download.jpg</Source>
+      <Name>download</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\download.xnb</Output>
+      <Time>2017-04-30T09:39:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>brownpixel.jpg</Source>
+      <Name>brownpixel</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\brownpixel.xnb</Output>
+      <Time>2017-04-30T09:41:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sharksprites.png</Source>
+      <Name>shark</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\shark.xnb</Output>
+      <Time>2017-05-14T13:38:59.0206002-07:00</Time>
+    </Item>
+    <Item>
+      <Source>crab.png</Source>
+      <Name>crab</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\crab.xnb</Output>
+      <Time>2017-05-14T14:08:10.9908316-07:00</Time>
+    </Item>
+    <Item>
+      <Source>luxembourg.png</Source>
+      <Name>luxembourg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\luxembourg.xnb</Output>
+      <Time>2017-06-04T13:26:33.7779323-07:00</Time>
+    </Item>
+    <Item>
+      <Source>0001.png</Source>
+      <Name>pole</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\pole.xnb</Output>
+      <Time>2017-06-04T13:44:21.7068139-07:00</Time>
+    </Item>
+    <Item>
+      <Source>mcdonalds_0.jpg</Source>
+      <Name>mcdonalds</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\mcdonalds.xnb</Output>
+      <Time>2017-06-04T13:27:20.9086371-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SF1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\SF1.xnb</Output>
+      <Time>2017-06-18T14:25:52.4513292-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Checkered-Flag-Vinyl-Wraps.jpg</Source>
+      <Name>finalFlag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\finalFlag.xnb</Output>
+      <Time>2017-06-11T13:24:00.561929-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont2.spritefont</Source>
+      <Name>SF2</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\SF2.xnb</Output>
+      <Time>2017-06-18T14:26:03.6338444-07:00</Time>
+    </Item>
+    <Item>
+      <Source>babyPang.png</Source>
+      <Name>babyPang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\babyPang.xnb</Output>
+      <Time>2017-06-25T13:45:43.2334122-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Cartoon-Mouse.png</Source>
+      <Name>CM</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\CM.xnb</Output>
+      <Time>2017-06-25T14:30:36.672621-07:00</Time>
+    </Item>
+    <Item>
+      <Source>needle.jpg</Source>
+      <Name>needle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\needle.xnb</Output>
+      <Time>2017-07-09T13:32:00.727929-07:00</Time>
+    </Item>
+    <Item>
+      <Source>happy face.jpg</Source>
+      <Name>hf</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\hf.xnb</Output>
+      <Time>2017-07-09T13:32:33.9632666-07:00</Time>
+    </Item>
+    <Item>
+      <Source>retry.png</Source>
+      <Name>retry</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\retry.xnb</Output>
+      <Time>2017-07-09T14:09:30.4294259-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F0764B50-F149-481C-BA52-DAE960B0E012}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_PlatformerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_Platformer\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-13T20:45:55.2527415-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

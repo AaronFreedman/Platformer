@@ -1,0 +1,2 @@
+C:\Users\VisitorDL12\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_PlatformerContent\obj\x86\Debug\Aaron_PlatformerContent.contentprojResolveAssemblyReference.cache
+C:\Users\VisitorDL10\Documents\Visual Studio 2015\Projects\Aaron Platformer\Aaron Platformer\Aaron_PlatformerContent\obj\x86\Debug\Aaron_PlatformerContent.contentprojResolveAssemblyReference.cache
